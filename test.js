@@ -1,7 +1,7 @@
 function myjob(){
     alert("new word");
 
-    t
+    tytuio
     asdfasdf t
     re
 }
