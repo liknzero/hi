@@ -1,5 +1,6 @@
 function myjob(){
     alert("new word");
 
-    asdfasdf 
+    t
+    asdfasdf t
 }
